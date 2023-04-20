@@ -1,4 +1,4 @@
-<h1 align="center">Hello! My name is Dav1dex</h1>
+<h1 align="center">Hello! My name is david</h1>
 <h3 align="center">An app/game developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dav1dex&label=Profile%20views&color=0e75b6&style=flat" alt="dav1dex" /> </p>
